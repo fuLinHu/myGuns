@@ -12,7 +12,7 @@ import com.stylefeng.guns.generator.action.config.GunsGeneratorConfig;
 public class GunsCodeGenerator {
 
     public static void main(String[] args) {
-    	
+
         /**
          * Mybatis-Plus的代码生成器:
          *      mp的代码生成器可以生成实体,mapper,mapper对应的xml,service
